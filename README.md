@@ -1,5 +1,3 @@
-# my-resumee
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
